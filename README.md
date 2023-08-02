@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andy Jiang</h1>
-<h3 align="center">I'm a student at the University of Texas at Austin majoring in computer science and math under the Turing Scholars program. Let's get along! </h3>
+<h3 align="center">I'm a software engineer and student at the University of Texas at Austin majoring in computer science and math under the Turing Scholars program. Let's get along! </h3>
 
 - 🌱 I’m currently learning **AI and Security**
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **andyjiang916@gmail.com**
 
-- ⚡ Fun fact **I love watching and playing sports**
+- ⚡ Fun fact **I love asking questions**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
